@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Arif-champ">
-    <img src="https://komarev.com/ghpvc/?username=Arif-champ&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arif-champ's profile views" />
   </a>
 </p>
 
