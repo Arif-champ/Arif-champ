@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Arif%20Khan.%20M&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cloud%20engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Arif%20Khan.%20M&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cloud%20engineer%2FTrainer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Arif-champ">
@@ -17,10 +17,10 @@
 
 
 ## 🧠 My Focus Areas
+- Redhat Linux
+- Windows Server
 - AWS
 - Azure
-- Windows Server
-- Redhat Linux
 
 
 ## 📊 GitHub Stats & Trophies
